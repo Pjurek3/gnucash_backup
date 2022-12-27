@@ -1,0 +1,21 @@
+mod	trans_guid	split_guid	time_now	date_entered	date_posted	acc_guid	acc_name	num	description	notes	memo	action	reconciled	amount	value	date_reconciled
+-----------------
+===== START
+===== END
+===== START
+C	b2ffc1ff1da64fc3bffb940a1ca35428	f74b330e355441228fd75d355d1953ae	2022-12-23 17:36:58	2022-12-23 17:36:58	2022-12-23 10:59:00	30b1db52875e46c88f389dccbb4e213d	Savings_Long Term		Vacation - Whistler trip plan				n	-200000/100	-200000/100	1970-01-01 00:00:00
+C	b2ffc1ff1da64fc3bffb940a1ca35428	ccf4f22e231d49c4ab1037a2e7b30871	2022-12-23 17:36:58	2022-12-23 17:36:58	2022-12-23 10:59:00	c5858ef77d29454dad7644482a92c632	Miscellaneous		Vacation - Whistler trip plan				n	200000/100	200000/100	1970-01-01 00:00:00
+===== END
+===== START
+===== END
+===== START
+B	b2ffc1ff1da64fc3bffb940a1ca35428	ccf4f22e231d49c4ab1037a2e7b30871	2022-12-23 17:37:07	2022-12-23 17:36:58	2022-12-23 10:59:00	c5858ef77d29454dad7644482a92c632	Miscellaneous		Vacation - Whistler trip plan				n	200000/100	200000/100	1970-01-01 00:00:00
+B	b2ffc1ff1da64fc3bffb940a1ca35428	f74b330e355441228fd75d355d1953ae	2022-12-23 17:37:07	2022-12-23 17:36:58	2022-12-23 10:59:00	30b1db52875e46c88f389dccbb4e213d	Savings_Long Term		Vacation - Whistler trip plan				n	-200000/100	-200000/100	1970-01-01 00:00:00
+===== END
+===== START
+C	b2ffc1ff1da64fc3bffb940a1ca35428	ccf4f22e231d49c4ab1037a2e7b30871	2022-12-23 17:37:07	2022-12-23 17:36:58	2023-06-23 10:59:00	c5858ef77d29454dad7644482a92c632	Miscellaneous		Vacation - Whistler trip plan				n	200000/100	200000/100	1970-01-01 00:00:00
+C	b2ffc1ff1da64fc3bffb940a1ca35428	f74b330e355441228fd75d355d1953ae	2022-12-23 17:37:07	2022-12-23 17:36:58	2023-06-23 10:59:00	30b1db52875e46c88f389dccbb4e213d	Savings_Long Term		Vacation - Whistler trip plan				n	-200000/100	-200000/100	1970-01-01 00:00:00
+===== END
+===== START
+D	07a56db67ff74165bdd0c9d344570fa2	2fafd7a830724eadac6d278c18558268	2022-12-23 17:37:10	2022-12-23 17:37:10	2022-12-23 10:59:00								n	0/1	0/100	1970-01-01 00:00:00
+===== END

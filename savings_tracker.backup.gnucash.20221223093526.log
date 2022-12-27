@@ -1,0 +1,19 @@
+mod	trans_guid	split_guid	time_now	date_entered	date_posted	acc_guid	acc_name	num	description	notes	memo	action	reconciled	amount	value	date_reconciled
+-----------------
+===== START
+D	9bd8f7d08a47478fa728b879208c1bbb	1c4f9a57bbfb4ab2b400146981f45625	2022-12-23 17:35:30	2022-12-23 17:35:30	2022-12-23 10:59:00								n	0/1	0/100	1970-01-01 00:00:00
+===== END
+===== START
+D	e8f28dd018f2486f8c55898033946ce5	11ef149f3b0743298c68121d1c1bfb71	2022-12-23 17:35:31	2022-12-23 17:35:31	2022-12-23 10:59:00								n	0/1	0/100	1970-01-01 00:00:00
+===== END
+===== START
+===== END
+===== START
+C	e013914f40814c02a2cc0ec308a8e774	6778cc2a36b54eaf82934ae58f17566d	2022-12-23 17:36:37	2022-12-23 17:36:37	2022-12-23 10:59:00	4a13a92aeb7e467c9680564c6e0b936d	Checking Account		Vacation Plan - whistler trip				n	-200000/100	-200000/100	1970-01-01 00:00:00
+C	e013914f40814c02a2cc0ec308a8e774	21c70423c2c748599588750427bcfb81	2022-12-23 17:36:37	2022-12-23 17:36:37	2022-12-23 10:59:00	30b1db52875e46c88f389dccbb4e213d	Savings_Long Term		Vacation Plan - whistler trip				n	200000/100	200000/100	1970-01-01 00:00:00
+===== END
+===== START
+===== END
+===== START
+D	541a76253689440796a723000259387c	b0a9c1fd4de149cf96deb64e1272d7e6	2022-12-23 17:36:39	2022-12-23 17:36:39	2022-12-23 10:59:00								n	0/1	0/100	1970-01-01 00:00:00
+===== END

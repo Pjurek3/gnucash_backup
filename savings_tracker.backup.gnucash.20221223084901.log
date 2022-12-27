@@ -1,0 +1,39 @@
+mod	trans_guid	split_guid	time_now	date_entered	date_posted	acc_guid	acc_name	num	description	notes	memo	action	reconciled	amount	value	date_reconciled
+-----------------
+===== START
+===== END
+===== START
+===== END
+===== START
+D	d71c5b5e50b641baae31dd4943ab811d	0a768dad3dcf4e9db7f8ff12cec89d0a	2022-12-23 16:51:11	2022-12-23 16:51:11	2022-12-23 10:59:00								n	0/1	0/100	1970-01-01 00:00:00
+===== END
+===== START
+D	f011de2041ad41d98e8116a69e0dcf9b	5359cdc87cd44133bd3a64e98839742a	2022-12-23 16:51:12	2022-12-23 16:51:12	2022-12-23 10:59:00								n	0/1	0/100	1970-01-01 00:00:00
+===== END
+===== START
+===== END
+===== START
+C	f6e7fdec2d264f8bb701afb2fd036704	8b0b0632bf09496da5d5fd7a3148f45c	2022-12-23 16:51:52	2022-12-23 16:51:52	2022-12-23 10:59:00	4a13a92aeb7e467c9680564c6e0b936d	Checking Account		Initial Deposit				n	991230/100	991230/100	1970-01-01 00:00:00
+C	f6e7fdec2d264f8bb701afb2fd036704	7b15ab1c578c4cb686dff46c71536dfe	2022-12-23 16:51:52	2022-12-23 16:51:52	2022-12-23 10:59:00	376c7deebed942dcb52efec4cf17a663	Other Income		Initial Deposit				n	-991230/100	-991230/100	1970-01-01 00:00:00
+===== END
+===== START
+===== END
+===== START
+===== END
+===== START
+C	e0c641d98a604db5866cf0546de5cf56	efa779b45f1741fea26d81110ac15305	2022-12-23 16:54:13	2022-12-23 16:54:13	2022-12-23 10:59:00	30b1db52875e46c88f389dccbb4e213d	Savings_Long Term		Transfer for Anniversary Vacation - Oct 2023				n	300000/100	300000/100	1970-01-01 00:00:00
+C	e0c641d98a604db5866cf0546de5cf56	712da10564a24f37a3bcc68ab9158053	2022-12-23 16:54:13	2022-12-23 16:54:13	2022-12-23 10:59:00	4a13a92aeb7e467c9680564c6e0b936d	Checking Account		Transfer for Anniversary Vacation - Oct 2023				n	-300000/100	-300000/100	1970-01-01 00:00:00
+===== END
+===== START
+===== END
+===== START
+C	4665180bffa34b33b7bc3965be5375e4	a43b9423164f4dbc80052fe72df750b3	2022-12-23 16:54:43	2022-12-23 16:54:43	2023-10-05 10:59:00	30b1db52875e46c88f389dccbb4e213d	Savings_Long Term		Anniversary Vacation				n	-300000/100	-300000/100	1970-01-01 00:00:00
+C	4665180bffa34b33b7bc3965be5375e4	35943539f5f9438781a40743d2241346	2022-12-23 16:54:43	2022-12-23 16:54:43	2023-10-05 10:59:00	c5858ef77d29454dad7644482a92c632	Miscellaneous		Anniversary Vacation				n	300000/100	300000/100	1970-01-01 00:00:00
+===== END
+===== START
+===== END
+===== START
+D	46bded1dea074e06a96dcd2fc7095944	bc4ef549b5374a97b3badb329804980f	2022-12-23 16:54:52	2022-12-23 16:54:52	2023-10-05 10:59:00								n	0/1	0/100	1970-01-01 00:00:00
+===== END
+===== START
+===== END

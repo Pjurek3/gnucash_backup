@@ -1,0 +1,8 @@
+mod	trans_guid	split_guid	time_now	date_entered	date_posted	acc_guid	acc_name	num	description	notes	memo	action	reconciled	amount	value	date_reconciled
+-----------------
+===== START
+C	f4b37564a7974f0b8d3df2d8374a7013	70df27d8f23e484fa2ed25f15be535a2	2022-12-23 17:05:29	2022-12-23 17:05:29	2022-12-23 10:59:00	4a13a92aeb7e467c9680564c6e0b936d	Checking Account		Transfer for random spending				n	-200000/100	-200000/100	1970-01-01 00:00:00
+C	f4b37564a7974f0b8d3df2d8374a7013	6cb900cd1fce45afb4c333f36a0c45f7	2022-12-23 17:05:29	2022-12-23 17:05:29	2022-12-23 10:59:00	c5858ef77d29454dad7644482a92c632	Miscellaneous		Transfer for random spending				n	200000/100	200000/100	1970-01-01 00:00:00
+===== END
+===== START
+===== END
