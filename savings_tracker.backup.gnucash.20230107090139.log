@@ -1,0 +1,13 @@
+mod	trans_guid	split_guid	time_now	date_entered	date_posted	acc_guid	acc_name	num	description	notes	memo	action	reconciled	amount	value	date_reconciled
+-----------------
+===== START
+===== END
+===== START
+C	ada3d73202ec40a89b17ebb6b9b74657	31aa5fec55274ff2a442bd2fa6334318	2023-01-07 17:04:59	2023-01-07 17:04:59	2023-01-07 10:59:00	350346cfa34843529ed60ab5e9549b50	CC - Chase		Chase CC Payment				n	52349/100	52349/100	1970-01-01 00:00:00
+C	ada3d73202ec40a89b17ebb6b9b74657	5912d3059f81408288e896390b75110f	2023-01-07 17:04:59	2023-01-07 17:04:59	2023-01-07 10:59:00	4a13a92aeb7e467c9680564c6e0b936d	BECU - Checking Account - 0494		Chase CC Payment				n	-52349/100	-52349/100	1970-01-01 00:00:00
+===== END
+===== START
+===== END
+===== START
+D	6b75f77c993d4c24bb6db77487a9b082	d2c53a54fd844853a7227755843cbf79	2023-01-07 17:05:02	2023-01-07 17:05:02	2023-01-07 10:59:00								n	0/1	0/100	1970-01-01 00:00:00
+===== END

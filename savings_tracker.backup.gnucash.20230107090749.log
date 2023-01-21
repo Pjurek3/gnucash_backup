@@ -1,0 +1,16 @@
+mod	trans_guid	split_guid	time_now	date_entered	date_posted	acc_guid	acc_name	num	description	notes	memo	action	reconciled	amount	value	date_reconciled
+-----------------
+===== START
+===== END
+===== START
+C	0f08a8a5a7f543dd9c09ca60b7439fdc	75be7077064a4dddb69ae85499f2956a	2023-01-07 17:08:01	2023-01-07 17:08:01	2023-01-07 10:59:00	2019e05a272f45ef8f67d3767678343b	CC - AMX		AMX CC Payment				n	75281/100	75281/100	1970-01-01 00:00:00
+C	0f08a8a5a7f543dd9c09ca60b7439fdc	7e2701fc061c49c38ac874c5bcb033b9	2023-01-07 17:08:01	2023-01-07 17:08:01	2023-01-07 10:59:00	4a13a92aeb7e467c9680564c6e0b936d	BECU - Checking Account - 0494		AMX CC Payment				n	-75281/100	-75281/100	1970-01-01 00:00:00
+===== END
+===== START
+===== END
+===== START
+C	8db9e1df926846d1b7557589fd1d6db1	046193188ebe4358b2a79e89c76272a4	2023-01-07 17:10:30	2023-01-07 17:10:30	2023-01-07 10:59:00	2019e05a272f45ef8f67d3767678343b	CC - AMX		AMX Rewards				n	27200/100	27200/100	1970-01-01 00:00:00
+C	8db9e1df926846d1b7557589fd1d6db1	921d876a80f44963a67a64e03efcc6bd	2023-01-07 17:10:30	2023-01-07 17:10:30	2023-01-07 10:59:00	376c7deebed942dcb52efec4cf17a663	Other Income		AMX Rewards				n	-27200/100	-27200/100	1970-01-01 00:00:00
+===== END
+===== START
+===== END

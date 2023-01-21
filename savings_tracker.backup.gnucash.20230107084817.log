@@ -1,0 +1,46 @@
+mod	trans_guid	split_guid	time_now	date_entered	date_posted	acc_guid	acc_name	num	description	notes	memo	action	reconciled	amount	value	date_reconciled
+-----------------
+===== START
+B	762835aa2fbf45a9bcd7ddc3fbcb86ea	2a418a5bb2c54bf7964a45f94e43d338	2023-01-07 16:48:17	2022-12-28 16:04:46	2022-12-28 10:59:00	32f5fe9392574e3195b97a66da882e8d	ff3fdf6bb3a3441a9ad3319eb33cec3a		mortgage	monthly mortgage	mortgage		n	0/1	0/100	1970-01-01 00:00:00
+B	762835aa2fbf45a9bcd7ddc3fbcb86ea	a802754c30a54668b9f83ba0a54c4c2b	2023-01-07 16:48:17	2022-12-28 16:04:46	2022-12-28 10:59:00	32f5fe9392574e3195b97a66da882e8d	ff3fdf6bb3a3441a9ad3319eb33cec3a		mortgage	monthly mortgage	mortgage		n	0/1	0/100	1970-01-01 00:00:00
+===== END
+===== START
+R	762835aa2fbf45a9bcd7ddc3fbcb86ea	2a418a5bb2c54bf7964a45f94e43d338	2023-01-07 16:48:17	2022-12-28 16:04:46	2022-12-28 10:59:00	32f5fe9392574e3195b97a66da882e8d	ff3fdf6bb3a3441a9ad3319eb33cec3a		mortgage	monthly mortgage	mortgage		n	0/1	0/100	1970-01-01 00:00:00
+R	762835aa2fbf45a9bcd7ddc3fbcb86ea	a802754c30a54668b9f83ba0a54c4c2b	2023-01-07 16:48:17	2022-12-28 16:04:46	2022-12-28 10:59:00	32f5fe9392574e3195b97a66da882e8d	ff3fdf6bb3a3441a9ad3319eb33cec3a		mortgage	monthly mortgage	mortgage		n	0/1	0/100	1970-01-01 00:00:00
+===== END
+===== START
+B	762835aa2fbf45a9bcd7ddc3fbcb86ea	2a418a5bb2c54bf7964a45f94e43d338	2023-01-07 16:48:17	2022-12-28 16:04:46	2022-12-28 10:59:00	32f5fe9392574e3195b97a66da882e8d	ff3fdf6bb3a3441a9ad3319eb33cec3a		mortgage	monthly mortgage	mortgage		n	0/1	0/100	1970-01-01 00:00:00
+B	762835aa2fbf45a9bcd7ddc3fbcb86ea	a802754c30a54668b9f83ba0a54c4c2b	2023-01-07 16:48:17	2022-12-28 16:04:46	2022-12-28 10:59:00	32f5fe9392574e3195b97a66da882e8d	ff3fdf6bb3a3441a9ad3319eb33cec3a		mortgage	monthly mortgage	mortgage		n	0/1	0/100	1970-01-01 00:00:00
+===== END
+===== START
+R	762835aa2fbf45a9bcd7ddc3fbcb86ea	2a418a5bb2c54bf7964a45f94e43d338	2023-01-07 16:48:17	2022-12-28 16:04:46	2022-12-28 10:59:00	32f5fe9392574e3195b97a66da882e8d	ff3fdf6bb3a3441a9ad3319eb33cec3a		mortgage	monthly mortgage	mortgage		n	0/1	0/100	1970-01-01 00:00:00
+R	762835aa2fbf45a9bcd7ddc3fbcb86ea	a802754c30a54668b9f83ba0a54c4c2b	2023-01-07 16:48:17	2022-12-28 16:04:46	2022-12-28 10:59:00	32f5fe9392574e3195b97a66da882e8d	ff3fdf6bb3a3441a9ad3319eb33cec3a		mortgage	monthly mortgage	mortgage		n	0/1	0/100	1970-01-01 00:00:00
+===== END
+===== START
+===== END
+===== START
+C	bc7bd9654e9a427299cd307a3f6df41f	b997cc3791e14cb596e86a0e57e84db6	2023-01-07 16:58:04	2023-01-07 16:58:04	2023-01-07 10:59:00	30b1db52875e46c88f389dccbb4e213d	BECU - Savings_Long Term - 5549		Transfer from checking - accidently put money into this account rather than long term savings				n	1000000/100	1000000/100	1970-01-01 00:00:00
+C	bc7bd9654e9a427299cd307a3f6df41f	78143193dada42bc87346c997c26b198	2023-01-07 16:58:04	2023-01-07 16:58:04	2023-01-07 10:59:00	4a13a92aeb7e467c9680564c6e0b936d	BECU - Checking Account - 0494		Transfer from checking - accidently put money into this account rather than long term savings				n	-1000000/100	-1000000/100	1970-01-01 00:00:00
+===== END
+===== START
+===== END
+===== START
+C	ebba53e04f0c411c9d8f46759005829a	8d23d41791404537910ef8393a77ecb9	2023-01-07 17:00:01	2023-01-07 17:00:01	2023-01-07 10:59:00	30b1db52875e46c88f389dccbb4e213d	BECU - Savings_Long Term - 5549		Vanguard - Cole's college transfer out				n	-500000/100	-500000/100	1970-01-01 00:00:00
+C	ebba53e04f0c411c9d8f46759005829a	9d74165d0d38408e92756e88f3c6279a	2023-01-07 17:00:01	2023-01-07 17:00:01	2023-01-07 10:59:00	d89d55dc9b934f1385a18789adbafc77	Vanguard - Cole's college		Vanguard - Cole's college transfer out				n	500000/100	500000/100	1970-01-01 00:00:00
+===== END
+===== START
+===== END
+===== START
+C	f882acc0533343b5805ffd27fbea6fcd	d7a1c639dcaf490ebf4f554faf882d63	2023-01-07 17:00:17	2023-01-07 17:00:17	2023-01-07 10:59:00	30b1db52875e46c88f389dccbb4e213d	BECU - Savings_Long Term - 5549		VAnguard - Dylan's College				n	-500000/100	-500000/100	1970-01-01 00:00:00
+C	f882acc0533343b5805ffd27fbea6fcd	7ebedaebbcd94060a73bbd5bf5c25788	2023-01-07 17:00:17	2023-01-07 17:00:17	2023-01-07 10:59:00	14879a5898064115a4541dc93e24f0a1	Vanguard - Dylan's college		VAnguard - Dylan's College				n	500000/100	500000/100	1970-01-01 00:00:00
+===== END
+===== START
+===== END
+===== START
+D	8c41846ecbcd4ff282c1fa3f06a659c6	c8803f09e0a24dff9c1823c1d7268410	2023-01-07 17:00:45	2023-01-07 17:00:45	2023-01-07 10:59:00								n	0/1	0/100	1970-01-01 00:00:00
+===== END
+===== START
+===== END
+===== START
+D	7f2527e10b89480bb91baedfda5484e8	754bdc936b39416a8fd1ec6ea3bddfde	2023-01-07 17:00:49	2023-01-07 17:00:49	2023-01-07 10:59:00								n	0/1	0/100	1970-01-01 00:00:00
+===== END

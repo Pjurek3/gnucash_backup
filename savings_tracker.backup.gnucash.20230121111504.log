@@ -1,0 +1,10 @@
+mod	trans_guid	split_guid	time_now	date_entered	date_posted	acc_guid	acc_name	num	description	notes	memo	action	reconciled	amount	value	date_reconciled
+-----------------
+===== START
+===== END
+===== START
+C	fe5d4d7f237747fca20a3bec8f7afae2	3954a64a73624a41b07048c48916176c	2023-01-21 19:15:36	2023-01-21 19:15:36	2023-01-20 10:59:00	30b1db52875e46c88f389dccbb4e213d	BECU - Savings_Long Term - 5549		Interest				n	452/100	452/100	1970-01-01 00:00:00
+C	fe5d4d7f237747fca20a3bec8f7afae2	4086dd2e38314a5897d8cd5ff65912eb	2023-01-21 19:15:36	2023-01-21 19:15:36	2023-01-20 10:59:00	04584277cae14872b6403674e3d84e74	Interest Income		Interest				n	-452/100	-452/100	1970-01-01 00:00:00
+===== END
+===== START
+===== END

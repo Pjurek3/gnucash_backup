@@ -1,0 +1,13 @@
+mod	trans_guid	split_guid	time_now	date_entered	date_posted	acc_guid	acc_name	num	description	notes	memo	action	reconciled	amount	value	date_reconciled
+-----------------
+===== START
+===== END
+===== START
+C	2a2704d5d22e4f22a6fd47bfef4c2f72	54d832624ab345faa33917e3c7c4923f	2023-01-15 18:50:30	2023-01-15 18:50:30	2023-01-15 10:59:00	7350509c32f9458588b80d535eb9e525	Vanguard - Savings - 8104		Initial Balance				n	5513624/100	5513624/100	1970-01-01 00:00:00
+C	2a2704d5d22e4f22a6fd47bfef4c2f72	e4e9cbd6dd6a4779988369c90dee87ab	2023-01-15 18:50:30	2023-01-15 18:50:30	2023-01-15 10:59:00	6403838247ae435381da931088a18454	Other		Initial Balance				n	-5513624/100	-5513624/100	1970-01-01 00:00:00
+===== END
+===== START
+===== END
+===== START
+D	20b266b7c78741c79fb1ef5114657aaa	b58579b7f16c49e4aae69e860138b13e	2023-01-15 18:50:31	2023-01-15 18:50:31	2023-01-15 10:59:00								n	0/1	0/100	1970-01-01 00:00:00
+===== END

@@ -1,0 +1,14 @@
+mod	trans_guid	split_guid	time_now	date_entered	date_posted	acc_guid	acc_name	num	description	notes	memo	action	reconciled	amount	value	date_reconciled
+-----------------
+===== START
+C	e591a8047ff9438bb5016259bbede2cc	2294a888710845fcafef36fb2d67bf52	2023-01-21 18:49:07	2023-01-21 18:49:07	2023-01-12 10:59:00	4a13a92aeb7e467c9680564c6e0b936d	BECU - Checking Account - 0494		transfer from savings -> tracie did this from emergency since we were low.  need to pay back				n	50000/100	50000/100	1970-01-01 00:00:00
+C	e591a8047ff9438bb5016259bbede2cc	9f24d9bd04d646c7886bcbae864658f0	2023-01-21 18:49:07	2023-01-21 18:49:07	2023-01-12 10:59:00	d33cba82414c4b95a50dbcbf0f6fdd02	BECU - Emergency - 4242		transfer from savings -> tracie did this from emergency since we were low.  need to pay back				n	-50000/100	-50000/100	1970-01-01 00:00:00
+===== END
+===== START
+===== END
+===== START
+C	8ee530d44512482f8e72ab810e03d7b7	d387f38d32fe4b6a911b90468ad3d6ce	2023-01-21 18:49:24	2023-01-21 18:49:24	2023-01-13 10:59:00	4a13a92aeb7e467c9680564c6e0b936d	BECU - Checking Account - 0494		Motional Salary				n	400000/100	400000/100	1970-01-01 00:00:00
+C	8ee530d44512482f8e72ab810e03d7b7	b37cefcf3c5b4f3d92cc6e7f102f85bc	2023-01-21 18:49:24	2023-01-21 18:49:24	2023-01-13 10:59:00	8539f07e876e415aa2cc3664a4869da4	Salary		Motional Salary				n	-400000/100	-400000/100	1970-01-01 00:00:00
+===== END
+===== START
+===== END

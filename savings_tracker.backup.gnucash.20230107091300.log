@@ -1,0 +1,37 @@
+mod	trans_guid	split_guid	time_now	date_entered	date_posted	acc_guid	acc_name	num	description	notes	memo	action	reconciled	amount	value	date_reconciled
+-----------------
+===== START
+D	d27216fa50c8404f8ad64acc9e6a8497	be8ee7b88841405e9bfe7cc7612dff42	2023-01-07 17:19:16	2023-01-07 17:19:16	2023-01-07 10:59:00								n	0/1	0/100	1970-01-01 00:00:00
+===== END
+===== START
+===== END
+===== START
+C	6288ef0f7d434c50a229172df0b20365	41df0aa3fd144f18a433191c351e7421	2023-01-07 17:19:35	2023-01-07 17:19:35	2023-01-07 10:59:00	c4cddaa6e00340908fd5d69e3757b24f	BECU - Savings Short - 0486		Transfer - checking for credit cards				n	-150000/100	-150000/100	1970-01-01 00:00:00
+C	6288ef0f7d434c50a229172df0b20365	f78245f0471c4f329ea5c97db5b9e969	2023-01-07 17:19:35	2023-01-07 17:19:35	2023-01-07 10:59:00	4a13a92aeb7e467c9680564c6e0b936d	BECU - Checking Account - 0494		Transfer - checking for credit cards				n	150000/100	150000/100	1970-01-01 00:00:00
+===== END
+===== START
+===== END
+===== START
+B	6288ef0f7d434c50a229172df0b20365	f78245f0471c4f329ea5c97db5b9e969	2023-01-07 17:19:39	2023-01-07 17:19:35	2023-01-07 10:59:00	4a13a92aeb7e467c9680564c6e0b936d	BECU - Checking Account - 0494		Transfer - checking for credit cards				n	150000/100	150000/100	1970-01-01 00:00:00
+B	6288ef0f7d434c50a229172df0b20365	41df0aa3fd144f18a433191c351e7421	2023-01-07 17:19:39	2023-01-07 17:19:35	2023-01-07 10:59:00	c4cddaa6e00340908fd5d69e3757b24f	BECU - Savings Short - 0486		Transfer - checking for credit cards				n	-150000/100	-150000/100	1970-01-01 00:00:00
+===== END
+===== START
+C	6288ef0f7d434c50a229172df0b20365	f78245f0471c4f329ea5c97db5b9e969	2023-01-07 17:19:39	2023-01-07 17:19:35	2023-01-07 10:59:00	4a13a92aeb7e467c9680564c6e0b936d	BECU - Checking Account - 0494		Transfer - checking for credit card payments				n	150000/100	150000/100	1970-01-01 00:00:00
+C	6288ef0f7d434c50a229172df0b20365	41df0aa3fd144f18a433191c351e7421	2023-01-07 17:19:39	2023-01-07 17:19:35	2023-01-07 10:59:00	c4cddaa6e00340908fd5d69e3757b24f	BECU - Savings Short - 0486		Transfer - checking for credit card payments				n	-150000/100	-150000/100	1970-01-01 00:00:00
+===== END
+===== START
+D	7fc3ab782bcb46ec9b9c30c0392cedfd	c39a9da45e2947a2ba1c013df4d74879	2023-01-07 17:21:11	2023-01-07 17:21:11	2023-01-07 10:59:00								n	0/1	0/100	1970-01-01 00:00:00
+===== END
+===== START
+===== END
+===== START
+C	427b453fa1a34abc9a211e8d6b3069e6	a06fabd048ff42cd85fc5c338f445e09	2023-01-07 17:23:12	2023-01-07 17:23:12	2023-01-07 10:59:00	83ca48ab7f924e41afdf06a0fe2bec73	BECU - Bill Pay -  1083		Transfer - for monthly bills				n	216500/100	216500/100	1970-01-01 00:00:00
+C	427b453fa1a34abc9a211e8d6b3069e6	55333a2d9033496b821324c871a53e8d	2023-01-07 17:23:12	2023-01-07 17:23:12	2023-01-07 10:59:00	4a13a92aeb7e467c9680564c6e0b936d	BECU - Checking Account - 0494		Transfer - for monthly bills				n	-216500/100	-216500/100	1970-01-01 00:00:00
+===== END
+===== START
+===== END
+===== START
+D	c6df3a55ab6a40869ff022dbf2113672	e78e9ad60fbc41f88d8c8816f38ec07b	2023-01-07 17:23:16	2023-01-07 17:23:16	2023-01-07 10:59:00								n	0/1	0/100	1970-01-01 00:00:00
+===== END
+===== START
+===== END

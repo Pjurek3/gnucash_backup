@@ -1,0 +1,16 @@
+mod	trans_guid	split_guid	time_now	date_entered	date_posted	acc_guid	acc_name	num	description	notes	memo	action	reconciled	amount	value	date_reconciled
+-----------------
+===== START
+D	54cf7893f0524e038e415376f0549d3c	9c27d9a45aba4a13b213c2271a2220ad	2023-01-21 19:13:02	2023-01-21 19:13:02	2023-01-20 10:59:00								n	0/1	0/100	1970-01-01 00:00:00
+===== END
+===== START
+===== END
+===== START
+C	cbd66bdd437d40b59e0ad7f7b21c5699	08dbdd3725b54bfeaaa7747391759e13	2023-01-21 19:13:54	2023-01-21 19:13:54	2023-01-21 10:59:00	4a13a92aeb7e467c9680564c6e0b936d	BECU - Checking Account - 0494		Transfer back to savings to make up for previous transfer				n	-50000/100	-50000/100	1970-01-01 00:00:00
+C	cbd66bdd437d40b59e0ad7f7b21c5699	e25ebfd60fbb433a9e155bfa1500d94f	2023-01-21 19:13:54	2023-01-21 19:13:54	2023-01-21 10:59:00	d33cba82414c4b95a50dbcbf0f6fdd02	BECU - Emergency - 4242		Transfer back to savings to make up for previous transfer				n	50000/100	50000/100	1970-01-01 00:00:00
+===== END
+===== START
+===== END
+===== START
+D	eb533e9b280c4458a010aa69636a5be8	1fa8511230e4461aaeeaf5114d04d33e	2023-01-21 19:13:56	2023-01-21 19:13:56	2023-01-21 10:59:00								n	0/1	0/100	1970-01-01 00:00:00
+===== END

@@ -1,0 +1,18 @@
+mod	trans_guid	split_guid	time_now	date_entered	date_posted	acc_guid	acc_name	num	description	notes	memo	action	reconciled	amount	value	date_reconciled
+-----------------
+===== START
+B	762835aa2fbf45a9bcd7ddc3fbcb86ea	2a418a5bb2c54bf7964a45f94e43d338	2022-12-28 16:47:29	2022-12-28 16:04:46	2022-12-28 10:59:00	32f5fe9392574e3195b97a66da882e8d	ff3fdf6bb3a3441a9ad3319eb33cec3a		mortgage	monthly mortgage	mortgage		n	0/1	0/100	1970-01-01 00:00:00
+B	762835aa2fbf45a9bcd7ddc3fbcb86ea	a802754c30a54668b9f83ba0a54c4c2b	2022-12-28 16:47:29	2022-12-28 16:04:46	2022-12-28 10:59:00	32f5fe9392574e3195b97a66da882e8d	ff3fdf6bb3a3441a9ad3319eb33cec3a		mortgage	monthly mortgage	mortgage		n	0/1	0/100	1970-01-01 00:00:00
+===== END
+===== START
+R	762835aa2fbf45a9bcd7ddc3fbcb86ea	2a418a5bb2c54bf7964a45f94e43d338	2022-12-28 16:47:29	2022-12-28 16:04:46	2022-12-28 10:59:00	32f5fe9392574e3195b97a66da882e8d	ff3fdf6bb3a3441a9ad3319eb33cec3a		mortgage	monthly mortgage	mortgage		n	0/1	0/100	1970-01-01 00:00:00
+R	762835aa2fbf45a9bcd7ddc3fbcb86ea	a802754c30a54668b9f83ba0a54c4c2b	2022-12-28 16:47:29	2022-12-28 16:04:46	2022-12-28 10:59:00	32f5fe9392574e3195b97a66da882e8d	ff3fdf6bb3a3441a9ad3319eb33cec3a		mortgage	monthly mortgage	mortgage		n	0/1	0/100	1970-01-01 00:00:00
+===== END
+===== START
+B	762835aa2fbf45a9bcd7ddc3fbcb86ea	2a418a5bb2c54bf7964a45f94e43d338	2022-12-28 16:47:29	2022-12-28 16:04:46	2022-12-28 10:59:00	32f5fe9392574e3195b97a66da882e8d	ff3fdf6bb3a3441a9ad3319eb33cec3a		mortgage	monthly mortgage	mortgage		n	0/1	0/100	1970-01-01 00:00:00
+B	762835aa2fbf45a9bcd7ddc3fbcb86ea	a802754c30a54668b9f83ba0a54c4c2b	2022-12-28 16:47:29	2022-12-28 16:04:46	2022-12-28 10:59:00	32f5fe9392574e3195b97a66da882e8d	ff3fdf6bb3a3441a9ad3319eb33cec3a		mortgage	monthly mortgage	mortgage		n	0/1	0/100	1970-01-01 00:00:00
+===== END
+===== START
+R	762835aa2fbf45a9bcd7ddc3fbcb86ea	2a418a5bb2c54bf7964a45f94e43d338	2022-12-28 16:47:29	2022-12-28 16:04:46	2022-12-28 10:59:00	32f5fe9392574e3195b97a66da882e8d	ff3fdf6bb3a3441a9ad3319eb33cec3a		mortgage	monthly mortgage	mortgage		n	0/1	0/100	1970-01-01 00:00:00
+R	762835aa2fbf45a9bcd7ddc3fbcb86ea	a802754c30a54668b9f83ba0a54c4c2b	2022-12-28 16:47:29	2022-12-28 16:04:46	2022-12-28 10:59:00	32f5fe9392574e3195b97a66da882e8d	ff3fdf6bb3a3441a9ad3319eb33cec3a		mortgage	monthly mortgage	mortgage		n	0/1	0/100	1970-01-01 00:00:00
+===== END
